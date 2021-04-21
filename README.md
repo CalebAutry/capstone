@@ -7,4 +7,6 @@ This project is meant to be an initial look at the relationship of education and
 I have worked to overcome the poverty I grew up seeing in my community and have a future goal of helping others to overcome poverty. This project is to utilize the data analysis skills I have acquired while at Nashville Software School (NSS) to begin exploring what my role is in giving back to others in need.
 
 ### Data Question
-What high schools in MNPS have a high proportion of students who are economically disadvantaged? Do students who are economically disadvantaged perform at a lower level academically compared to their non-economically disadvantaged classmates? How can we help these high school students who are economically disadvantaged to better themselves and overcome hardships they may have encountered growing up within their families and/or communites?
+- What high schools in MNPS have a high proportion of students who are economically disadvantaged? 
+- Do students who are economically disadvantaged perform at a lower level academically compared to their non-economically disadvantaged classmates? 
+- How can we help these high school students who are economically disadvantaged to better themselves and overcome hardships they may have encountered growing up within their families and/or communites?
